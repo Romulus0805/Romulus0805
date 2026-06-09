@@ -2,6 +2,8 @@
 
 https://github.com/Romulus0805/Romulus0805/blob/main/Ider-Emiliano-Video-Final-2.mp4
 https://github.com/Romulus0805/Romulus0805/blob/main/ChatGPT%20Image%20Jun%204%2C%202026%20at%2012_24_24%20PM.png
+https://github.com/iderisadev/Friendster-Final-X
+I'm Emiliano Blanco and I made Friendster and it's about setting up events and having fun
 <!--
 **Romulus0805/Romulus0805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
